@@ -1,0 +1,10 @@
+httpx==0.28.1
+pyside6==6.9.1
+requests==2.32.4
+certifi==2025.6.15
+pytest==8.4.0
+pytest-asyncio==1.0.0
+pylint==3.3.7
+flake8==7.2.0
+black==25.1.0
+python-dotenv==1.1.0
